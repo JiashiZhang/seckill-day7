@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58728a1f-2606-45e8-ae46-3ac1e0513fe6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1kiRnfgC1WFfumQNPUxkZfUpOIJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jiuzhang.seckill" />
+      <recent name="com.jiuzhang.seckill.service" />
+      <recent name="com.jiuzhang.seckill.mq" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projectFile\seckill-day6\src\main\resources\templates" />
+      <recent name="D:\projectFile\12345678\seckill\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SeckillApplication">
+    <configuration name="DaoTest.SeckillActivityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiuzhang.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiuzhang.seckill" />
+      <option name="MAIN_CLASS_NAME" value="com.jiuzhang.seckill.DaoTest" />
+      <option name="METHOD_NAME" value="SeckillActivityTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDemoTest.getSekillInfoFromRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiuzhang.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiuzhang.seckill" />
+      <option name="MAIN_CLASS_NAME" value="com.jiuzhang.seckill.RedisDemoTest" />
+      <option name="METHOD_NAME" value="getSekillInfoFromRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDemoTest.testConcurrent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiuzhang.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiuzhang.seckill" />
+      <option name="MAIN_CLASS_NAME" value="com.jiuzhang.seckill.RedisDemoTest" />
+      <option name="METHOD_NAME" value="testConcurrent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisDemoTest.testConcurrentAddLock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiuzhang.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiuzhang.seckill" />
+      <option name="MAIN_CLASS_NAME" value="com.jiuzhang.seckill.RedisDemoTest" />
+      <option name="METHOD_NAME" value="testConcurrentAddLock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThymeleafServiceTest.createHtmlTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiuzhang.seckill.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jiuzhang.seckill" />
+      <option name="MAIN_CLASS_NAME" value="com.jiuzhang.seckill.ThymeleafServiceTest" />
+      <option name="METHOD_NAME" value="createHtmlTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="seckill" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiuzhang.seckill.SeckillApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RedisDemoTest.testConcurrent" />
+        <item itemvalue="JUnit.RedisDemoTest.testConcurrentAddLock" />
+        <item itemvalue="JUnit.DaoTest.SeckillActivityTest" />
+        <item itemvalue="JUnit.ThymeleafServiceTest.createHtmlTest" />
+        <item itemvalue="JUnit.RedisDemoTest.getSekillInfoFromRedis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58728a1f-2606-45e8-ae46-3ac1e0513fe6" name="Default Changelist" comment="" />
+      <created>1606181596067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606181596067</updated>
+      <workItem from="1606181597158" duration="176000" />
+      <workItem from="1606182020332" duration="19583000" />
+      <workItem from="1606223555354" duration="32000" />
+      <workItem from="1606267754058" duration="5948000" />
+      <workItem from="1606283005548" duration="7410000" />
+      <workItem from="1606295389107" duration="563000" />
+      <workItem from="1606361597112" duration="13000" />
+      <workItem from="1606368587272" duration="2160000" />
+      <workItem from="1606613879191" duration="1888000" />
+      <workItem from="1606628508100" duration="95000" />
+      <workItem from="1606628615060" duration="1113000" />
+      <workItem from="1606630035673" duration="2525000" />
+      <workItem from="1606633103712" duration="5551000" />
+      <workItem from="1606638988934" duration="3150000" />
+      <workItem from="1606709031143" duration="4721000" />
+      <workItem from="1606786215110" duration="2086000" />
+      <workItem from="1606811886277" duration="1228000" />
+      <workItem from="1606816708059" duration="1541000" />
+      <workItem from="1606896323641" duration="397000" />
+      <workItem from="1607215434472" duration="6419000" />
+      <workItem from="1607417101730" duration="211000" />
+      <workItem from="1607418960183" duration="1801000" />
+      <workItem from="1607475589484" duration="5853000" />
+      <workItem from="1607485218928" duration="474000" />
+      <workItem from="1607488986004" duration="2795000" />
+      <workItem from="1607499590980" duration="195000" />
+      <workItem from="1607502223199" duration="631000" />
+      <workItem from="1607512312615" duration="327000" />
+      <workItem from="1607765102438" duration="746000" />
+      <workItem from="1607826721684" duration="1896000" />
+      <workItem from="1607853052193" duration="608000" />
+      <workItem from="1607911552436" duration="6000" />
+      <workItem from="1607925020207" duration="88000" />
+      <workItem from="1607925212131" duration="95000" />
+      <workItem from="1646608715064" duration="2003000" />
+      <workItem from="1646611311002" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
